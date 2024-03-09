@@ -1,0 +1,1 @@
+# Reconhecimento-e-transformacao-imagens-azureml

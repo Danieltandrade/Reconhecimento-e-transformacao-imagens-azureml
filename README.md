@@ -26,7 +26,9 @@ Com a ferramenta escolhida e as imagens baixadas é só realizar uma busca do ar
 
 <img src="Output/Print1.JPG">Imagem 1
 
+
 <img src="Output/Print2.JPG">Imagem 2
+
 
 ## Insights
 

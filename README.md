@@ -24,11 +24,9 @@ Para o desafio de aprendizagem foi escolhida a ferramenta "Optical character rec
 
 Com a ferramenta escolhida e as imagens baixadas é só realizar uma busca do arquivo de imagem e carregá-la, que a ferramenta fará todo o trabalho de reconhecimento de texto, conforme imagens 1 e 2 abaixo e também os códigos em "C#" que estão na pasta "Output".
 
-<img src="Output/Print1.JPG">
-Imagem 1
+<img src="Output/Print1.JPG">Imagem 1
 
-<img src="Output/Print2.JPG">
-Imagem 2
+<img src="Output/Print2.JPG">Imagem 2
 
 ## Insights
 
